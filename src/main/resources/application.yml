@@ -17,4 +17,4 @@ spring:
       max-request-size: 10MB
 
 app:
-  upload-path: /limange_imgs/uploads # 文件存储路径
+  upload-path: /limange_imgs/uploads # 文件存储路径(Linux),win类型:S:/limange_imgs/uploads
